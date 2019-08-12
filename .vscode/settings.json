@@ -2,7 +2,8 @@
     "python.pythonPath": "C:\\Python\\python.exe",
     
     "editor.formatOnSave": false,
-
+    
+    // Enable per-language
     "[python]": {
         "editor.formatOnSave": true
     }
